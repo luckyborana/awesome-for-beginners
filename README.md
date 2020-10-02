@@ -22,6 +22,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [ClojureScript](#clojurescript)
 - [CSS](#css)
 - [Dart](#dart)
+- [R Lang](#R)
 - [Elixir](#elixir)
 - [Go](#go)
 - [Java](#java)
